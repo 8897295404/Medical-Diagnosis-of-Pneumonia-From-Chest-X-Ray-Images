@@ -1,3 +1,3 @@
 # Medical-Diagnosis-of-Pneumonia-From-Chest-X-Ray-Images
 #Front_Page
-![](FRONT_PAGE(2).png)
+![](https://github.com/8897295404/Medical-Diagnosis-of-Pneumonia-From-Chest-X-Ray-Images/blob/main/FRONT_PAGE%20(2).png)
